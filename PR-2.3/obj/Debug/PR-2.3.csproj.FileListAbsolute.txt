@@ -1,0 +1,52 @@
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\bin\Debug\PR-2.3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\bin\Debug\PR-2.3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\bin\Debug\PR-2.3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\obj\Debug\PR-2.3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\obj\Debug\PR_2._3.Dictionary.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\obj\Debug\PR_2._3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\obj\Debug\PR-2.3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\obj\Debug\PR-2.3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\obj\Debug\PR-2.3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\ПР2\PR-2.3\obj\Debug\PR-2.3.pdb
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\bin\Debug\PR-2.3.exe.config
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\bin\Debug\PR-2.3.exe
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\bin\Debug\PR-2.3.pdb
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.csproj.AssemblyReference.cache
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\obj\Debug\PR_2._3.Dictionary.resources
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\obj\Debug\PR_2._3.Properties.Resources.resources
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.csproj.GenerateResource.cache
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.csproj.CoreCompileInputs.cache
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.exe
+C:\Users\1210-14\Documents\2-ИСП\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\bin\Debug\PR-2.3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\bin\Debug\PR-2.3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\bin\Debug\PR-2.3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\obj\Debug\PR_2._3.Dictionary.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\obj\Debug\PR_2._3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (2)\PR-2.3\obj\Debug\PR-2.3.pdb
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\bin\Debug\PR-2.3.exe.config
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\bin\Debug\PR-2.3.exe
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\bin\Debug\PR-2.3.pdb
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR-2.3.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR_2._3.Dictionary.resources
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR_2._3.Properties.Resources.resources
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR-2.3.csproj.GenerateResource.cache
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR-2.3.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR-2.3.exe
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR-2.3.pdb
+C:\Users\79537\Source\Repos\PR-2.2\PR-2.3\obj\Debug\PR_2._3.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\bin\Debug\PR-2.3.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\bin\Debug\PR-2.3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\bin\Debug\PR-2.3.pdb
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR-2.3.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR_2._3.Dictionary.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR_2._3.Form2.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR_2._3.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR-2.3.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR-2.3.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR-2.3.exe
+D:\Users\1213-3\Documents\2-ИСП\Разработка кода ИС\Новая папка (3)\PR-2.2\PR-2.3\obj\Debug\PR-2.3.pdb
